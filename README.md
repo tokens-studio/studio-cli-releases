@@ -2,6 +2,8 @@
 
 Release artifacts for [Studio CLI](https://tokens.studio) — design tokens management for the command line.
 
+[![Studio CLI on StartupScores](https://startupscores.com/badge/studio-cli.svg?style=shield&v=combo&theme=dark)](https://startupscores.com/open-source/studio-cli)
+
 ## Installation
 
 ```bash
